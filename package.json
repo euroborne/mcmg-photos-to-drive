@@ -1,6 +1,6 @@
 {
   "name": "mcmg-photos-to-drive",
-  "homepage": "https://euroborne.github.io/mcmg-photos-to-drive",
+  "homepage": "https://mcmg-photos2drive.rofoto.org",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -10,9 +10,10 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --cname mcmg-photos2drive.rofoto.org"
   },
   "dependencies": {
+    "lucide-react": "^0.539.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
