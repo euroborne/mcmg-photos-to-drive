@@ -1,6 +1,6 @@
 {
   "name": "mcmg-photos-to-drive",
-  "homepage": "https://mcmg-photos2drive.rofoto.org/",
+  "homepage": "https://mcmg-photos2drive.rofoto.org",
   "private": true,
   "version": "1.0.0",
   "type": "module",
