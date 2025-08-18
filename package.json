@@ -2,7 +2,7 @@
   "name": "mcmg-photos-to-drive",
   "homepage": "https://euroborne.github.io/mcmg-photos-to-drive/",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
